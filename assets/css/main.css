@@ -5,6 +5,30 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+#gameContainer
+  {
+  	text-align: center;
+  }
+  
+  #gameBoard
+  {
+  	border: 3px solid;  
+  }
+  
+  #scoreText
+  {
+  	font-family:"Raleway", cursive;
+    font-size: 30px;
+  }
+  
+  #resetButton
+  {
+  	font-family:"Raleway", cursive;
+	border: 3px solid;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
